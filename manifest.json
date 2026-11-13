@@ -1,0 +1,11 @@
+{
+  "name": "دفتر کهاته سلطان",
+  "short_name": "دفتر سلطان",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#ff1010",
+  "background_color": "#ffffff"
+}
